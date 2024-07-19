@@ -1,6 +1,6 @@
 ### Welcome
 
-This repository is for a demo python app containerized and deployed with terraform.
+This repository is for a demo python app containerized and deployed with terraform on the local provider.
 
 You need to have docker and terraform installed.
 
